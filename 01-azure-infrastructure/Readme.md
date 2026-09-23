@@ -8,13 +8,32 @@ Instead of creating Azure resources manually through the Azure Portal, Terraform
 
 
 ## Screenshots
+-[All-resource-group](#All-resource-group)
+-[Terraform-success](#Terraform-success)
+-[VM-logged-in](#VM-logged-in)
 
 
 
 
 
 
+## All-resource-group
 
+<img width="1016" height="565" alt="allresou" src="https://github.com/user-attachments/assets/3f1975ea-9827-4c87-b1be-e8babc619b52" />
+
+
+
+## Terraform-success
+
+
+<img width="739" height="262" alt="01 apply" src="https://github.com/user-attachments/assets/ba110eb4-86fb-4871-b998-60c097d462d8" />
+
+
+
+## VM-logged-in
+
+
+<img width="878" height="577" alt="04 vm" src="https://github.com/user-attachments/assets/e81ff2ad-9212-41bc-a835-5ff32443d43a" />
 
 
 
