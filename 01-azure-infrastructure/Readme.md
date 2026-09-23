@@ -8,8 +8,11 @@ Instead of creating Azure resources manually through the Azure Portal, Terraform
 
 
 ## Screenshots
+
 -[All-resource-group](#All-resource-group)
+
 -[Terraform-success](#Terraform-success)
+
 -[VM-logged-in](#VM-logged-in)
 
 
