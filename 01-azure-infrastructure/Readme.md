@@ -22,7 +22,8 @@ Instead of creating Azure resources manually through the Azure Portal, Terraform
 
 ## All-resource-group
 
-<img width="1016" height="565" alt="allresou" src="https://github.com/user-attachments/assets/3f1975ea-9827-4c87-b1be-e8babc619b52" />
+<img width="1016" height="565" alt="allresou" src="https://github.com/user-attachments/assets/38423994-7593-41e8-afc3-8023f7b09595" />
+
 
 
 
